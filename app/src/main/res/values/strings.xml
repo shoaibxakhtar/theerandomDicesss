@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The random dice</string>
+    <string name="button_text">Roll</string>
+    <string name="dice_logo">appLogo</string>
+    <string name="dice_1">dice1</string>
+    <string name="right_dice">rightDice</string>
+    <string name="left_dice">leftDice</string>
+
+</resources>
