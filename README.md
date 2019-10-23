@@ -1,1 +1,1 @@
-"#The RANDOM dice app made in Android Studio 
+#The RANDOM dice app made in Android Studio 
